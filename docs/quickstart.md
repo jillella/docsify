@@ -14,6 +14,15 @@ If you want to write the documentation in the `./docs` subdirectory, you can use
 docsify init ./docs
 ```
 
+### Initialize sub
+
+If you want to write the documentation in the `./docs` subdirectory, you can use the `init` command.
+
+```bash
+docsify init ./docs
+```
+
+
 ## Writing content
 
 After the `init` is complete, you can see the file list in the `./docs` subdirectory.
